@@ -1,1 +1,1 @@
-this line will appear on my profile
+fuck i wanna learn rust
